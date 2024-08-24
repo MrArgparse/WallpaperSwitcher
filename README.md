@@ -5,4 +5,12 @@ This AutoHotkey script will allow you to change wallpapers on the fly by using k
 
 The default behavior is to use CTRL+ALT+LEFT to cycle forwards and CTRL+ALT+RIGHT to cycle backwards.
 
-One can also modify the script to use a 2nd folder with the arrow keys, to set a random wallpaper or to set a wallpaper to a time period basis.
+One can also modify the script to:
+
+- Change The shortcut
+
+- Use a 2nd folder with the arrow keys
+
+- Set a random wallpaper
+
+- Change wallpapers on a time based apporach.
