@@ -1,2 +1,8 @@
 # WallpaperSwitcher
-Set wallpapers from a folder with hotkeys.
+Set wallpapers from a folder on-the-fly with hotkeys.
+
+This AutoHotkey script will allow you to change wallpapers on the fly by using keyboard shortcuts. Feel free to modify and recompile it to suit your needs.
+
+The default behavior is to use CTRL+ALT+LEFT to cycle forwards and CTRL+ALT+RIGHT to cycle backwards.
+
+One can also modify the script to use a 2nd folder with the arrow keys, to set a random wallpaper or to set a wallpaper to a time period basis.
