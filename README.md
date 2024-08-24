@@ -9,8 +9,8 @@ One can also modify the script to:
 
 - Change The shortcut
 
-- Use a 2nd folder with the arrow keys
+- Use a 2nd folder with different shortcuts
 
 - Set a random wallpaper
 
-- Change wallpapers on a time based apporach.
+- Change wallpapers on a time based apporach
