@@ -76,3 +76,7 @@ ShowErrorMsg(message) {
 	CURRENT_INDEX := Mod(CURRENT_INDEX - 2 + FILECOUNT, FILECOUNT) + 1
 	SetDesktopWallpaper(WALLPAPERS[CURRENT_INDEX])
 }
+
+; Reload Script
+A_TrayMenu.Add
+A_TrayMenu.Add 'Reload this script', (itemName, itemPos, m) => Reload()
